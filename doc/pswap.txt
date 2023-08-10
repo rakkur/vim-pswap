@@ -1,0 +1,11 @@
+*pswap.txt*
+
+Author:  Eric Crowley <https://github.com/rakkur/>
+License: Same terms as Vim itself (see |license|)
+
+Version: 1.0.0
+
+INTRODUCTION                                                      *pswap*
+REQUIREMENTS                                         *pswap-requirements*
+USAGE                                                       *pswap-usage*
+CONFIGURATION                                       *pswap-configuration*
